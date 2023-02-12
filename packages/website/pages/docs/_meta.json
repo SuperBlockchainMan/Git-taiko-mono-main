@@ -1,0 +1,20 @@
+{
+  "index": {
+    "title": "Introduction 👋"
+  },
+  "learn": {
+    "title": "Learn"
+  },
+  "testnet-guide": {
+    "title": "Guides"
+  },
+  "tutorials": {
+    "title": "Tutorials"
+  },
+  "reference": {
+    "title": "Reference"
+  },
+  "resources": {
+    "title": "Resources"
+  }
+}
